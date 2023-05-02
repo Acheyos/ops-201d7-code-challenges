@@ -22,8 +22,4 @@ touch ${directories[3]}/file4.txt
 files=("file1.txt" "file2.txt" "file3.txt" "file4.txt")
 
 
-echo ${directories[*]}
-
-echo ${files[*]}
-
 #END
